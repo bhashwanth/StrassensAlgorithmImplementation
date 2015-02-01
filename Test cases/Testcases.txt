@@ -1,0 +1,63 @@
+Console results
+-----------------------------------------------
+Test case 1:
+-----------------------------------------------
+Enter the order of the matrices:
+2
+Enter the first matrix of size 2:
+5
+7
+2
+1
+Enter the second matrix of size 2:
+-7
+3
+9
+4
+Resultant Matrix:
+28 43 
+-5 10 
+
+Test case 2:
+-------------------------------------------------
+Enter the order of the matrices:
+4
+Enter the first matrix of size 4:
+1
+4
+7
+8
+4
+5
+6
+0
+-5
+4
+1
+9
+7
+3
+8
+2
+Enter the second matrix of size 4:
+2
+5
+7
+14
+0
+8
+0
+5
+7
+5
+1
+9
+5
+3
+1
+8
+Resultant Matrix:
+91 96 22 161 
+50 90 34 135 
+42 39 -25 31 
+80 105 59 201 
